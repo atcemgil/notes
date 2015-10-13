@@ -1,0 +1,68 @@
+\documentclass{report}
+%
+\usepackage{pstricks,pst-node,comment}
+
+
+\newcommand{\ktime}{t}
+\newcommand{\KTIME}{T}
+\newcommand{\cut}[1]{}
+
+
+\newcommand{\PFB}[2]{[name=#1,mnode=R]\psframebox{#2}}
+\newcommand{\PDB}[2]{[name=#1,mnode=dia]{#2}}
+%\newcommand{\POB}[2]{[name=#1,mnode=oval]{#2}}
+\newcommand{\POB}[2]{[name=#1,mnode=circle]{\makebox[0.6cm]{#2}}}
+\newcommand{\PDOB}[2]{[name=#1,mnode=circle,doubleline=true]{\makebox[0.6cm]{#2}}}
+
+\pslongbox{MyBox}{\psframebox }
+
+\newcommand{\MonCube}
+{\pspolygon[fillcolor=gray]
+(0,0)(0,1.2)(1,1)(1,-0.4)
+\pspolygon[fillcolor=black]
+(1,-0.4)(1,1)(2,1.2)(2,0)
+\pspolygon[fillcolor=yellow]
+(0,1.2)(1,1.4)(2,1.2)(1,1)}
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{comment}
+\begin{figure}
+\psset{unit=6mm,linestyle=none,
+fillstyle=solid}
+\begin{center}
+\rput(0,-5)
+{%\multirput(-1.4,-0.5){4}
+%\multirput(-1.8,-0.6){4}
+{\multirput(0,1.6){4}
+%\multirput(0,2.6){4}
+{%\multirput(1.4,-0.6){4}
+\multirput(2.1,-1.3){4}
+{\MonCube}}}}
+\end{center}
+\end{figure}
+\end{comment}
+\begin{figure}
+\begin{center}
+\begin{psmatrix}[rowsep=1cm,colsep=0.5cm]
+%\POB{h1}{$h_1$}  & \POB{h2}{$h_2$}  & \POB{h3}{$h_3$}  & \POB{h4}{$h_4$}  \\
+%  & \POB{h1}{$h_1$}  & \POB{h2}{$h_2$}    \\
+&  & \POB{h1}{$\theta$}      \\
+ \PDOB{x1}{$x_1$}  &  \PDOB{x2}{$x_2$}  & $\dots$ &  \PDOB{x3}{$x_N$}  & \POB{x4}{$x_{N+1}$} 
+\end{psmatrix}
+\psset{arcangle=35} % 
+\psset{arrows=->,arrowsize=3.5pt 2}
+%\ncarc{x1}{x3} %\ncarc{x2}{x4} 
+\psset{arcangle=45} % 
+%\ncarc{x1}{x4} 
+%\ncline{x1}{x2}%\ncline{x2}{x3}%\ncline{x3}{x4}
+%\ncline{x1}{x2}\ncline{x1}{x3}\ncline{x3}{x4}\ncline{x2}{x4} \ncline{x2}{x3}
+%\ncline{h1}{h2}\ncline{h2}{h3}\ncline{h3}{h4}
+\ncline{h1}{x1}\ncline{h1}{x2}\ncline{h1}{x3}\ncline{h1}{x4}
+%\ncline{h1}{x1}\ncline{h1}{x2}\ncline{h1}{x3}\ncline{h1}{x4}
+%\ncline{h2}{x1}\ncline{h2}{x2}\ncline{h2}{x3}\ncline{h2}{x4}
+\end{center}
+\end{figure}
+
+\end{document}
