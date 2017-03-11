@@ -2,6 +2,11 @@
 
 import numpy as np
 
+def GivensMat(th):
+    c = np.cos(th)
+    s = np.sin(th)
+    return np.array([[c,s],[-s,c]])
+
 def pnorm_ball_points(A=np.eye(2), mu=np.array([0,0]),p=2, N=128):
     '''
     Creates the points on a p normball y = A x + \mu 
@@ -19,6 +24,14 @@ def pnorm_ball_points(A=np.eye(2), mu=np.array([0,0]),p=2, N=128):
     data_x = mu[0]+Y[0,:]
     data_y = mu[1]+Y[1,:]
     return data_x, data_y
+
+import matplotlib.pylab as plt
+
+def pnorm_ball_line(A=np.eye(2), mu=np.array([0,0]),p=2, N=128,color='r',linewidth=3):
+	'''	Creates line objects. Show them with ax.add_line(ln) '''
+	dx,dy = pnorm_ball_points(A)
+	ln = plt.Line2D(dx,dy, color=color, linewidth=linewidth)
+	return ln
 
 def mat2latex(a,dollar=False):
     """Returns a LaTeX string for typesetting a matrix
@@ -52,6 +65,22 @@ def bmatrix(a):
     return ''.join(rv)
 
 
+## Standard Densities
+##
+##
+
+
+def eqs2html_table(L):
+    html = ["<table width=100%>"]
+    for eq in L:
+        html.append("<tr>")
+        html.append('<td align="center">{0}</td>'.format(r'\begin{eqnarray}'+eq+r'\end{eqnarray}'))
+        html.append("<td>{0}</td>".format(eq))
+        html.append("</tr>")
+    html.append("</table>")
+
+    html = ''.join(html)
+    return html
 
 
 def pdf2latex_gauss(x=r'x', m=r'\mu', v=r'v', N=r'N'):
@@ -64,6 +93,28 @@ def pdf2latex_gauss(x=r'x', m=r'\mu', v=r'v', N=r'N'):
     L.append(rv)
     return L
 
+def pdf2latex_mvnormal(x=r'x', m=r'\mu', v=r'\Sigma', N=r'N'):
+
+    L = []
+
+    if m==0:
+        rv = r'\mathcal{{{N}}}({x}; {m}, {v})'.format(x=x, m=m, v=v, N=N) 
+        L.append(rv)
+        rv = r'\left|{{ 2\pi {v} }} \right|^{{-1/2}} \exp\left(-\frac12 {{{x}}}^\top {{{v}}}^{{-1}} {{{x}}} \right)'.format(x=x, m=m, v=v)
+        L.append(rv)
+        logpdf = r'  -\frac{{1}}{{2}}\trace {{{v}}}^{{-1}} {{{x}}}{{{x}}}^\top  -\frac{{1}}{{2}}\log \left|2{{\pi}}{v}\right|'.format(x=x, m=m, v=v)     
+    else:
+        rv = r'\mathcal{{{N}}}({x}; {m}, {v})'.format(x=x, m=m, v=v, N=N) 
+        L.append(rv)
+        rv = r'\left|{{ 2\pi {v} }} \right|^{{-1/2}} \exp\left(-\frac12 ({{{x}}} - {{{m}}} )^\top {{{v}}}^{{-1}} ({{{x}}} - {{{m}}} ) \right)'.format(x=x, m=m, v=v)
+        L.append(rv)
+        logpdf = r'  -\frac{{1}}{{2}}\trace {{{v}}}^{{-1}} {{{x}}}{{{x}}}^\top + \trace {{{v}}}^{{-1}} {{{x}}}{{{m}}}^\top -\frac{{1}}{{2}}\trace {{{v}}}^{{-1}} {{{m}}}{{{m}}}^\top  -\frac{{1}}{{2}}\log \left|2{{\pi}}{v}\right|'.format(x=x, m=m, v=v) 
+
+    rv = r'\exp\left('+logpdf+ r'\right)'
+    L.append(rv)
+    rv = logpdf
+    L.append(rv)
+    return L
 
 def pdf2latex_gamma(x=r'x', a=r'a', b=r'b', G=r'G'):
     L = [r'\mathcal{{{G}}}({x}; {a}, {b})'.format(x=x, a=a, b=b, G=G) ]
@@ -94,3 +145,42 @@ def pdf2latex_beta(x=r'w', a=r'a', b=r'b', B=r'B'):
     rv = r'({{{a}}} - 1)\log {x} + ({{{b}}} - 1)\log (1-{x}) + \log\Gamma({{{a}}}+{{{b}}}) - \log \Gamma({{{a}}}) - \log \Gamma({{{b}}})'.format(x=x, a=a, b=b)  
     L.append(rv)    
     return L
+
+
+def pdf2latex_bernoulli(x=r'c', th=r'theta', BE='BE'):
+    L = [r'\mathcal{{{BE}}}({x}; {th})'.format(x=x, th=th) ]
+    rv = r'{{{th}}}^{{{x}_0}}_0 {{{th}}}^{{{x}_1}}_1'.format(x=x, th=th)
+    L.append(rv)
+    rv = r'\exp\left({x}_0 \log {th}_0 + {x}_1 \log {th}_1\right)'.format(x=x, th=th)
+    L.append(rv)
+    rv = r'{x}_0 \log {th}_0 + {x}_1 \log {th}_1'.format(x=x, th=th)
+    L.append(rv)    
+    return L
+
+
+## -----------------------------
+
+def pdf2latex_invwishart(X=r'X', nu=r'\nu', S=r'S', k=r'k', IW='IW'):
+    L = [r'\mathcal{{{IW}}}_{k}({X}; {nu}, {S} )\;\;\;\Gamma_{k}({nu}/2) = \pi^{{{k}({k}-1)/4}} \prod_{{i=1}}^{{{k}}} \Gamma({nu}/2 - (i-1)/2)'.format(X=X, nu=nu, S=S, IW=IW, k=k)  ]
+    rv = r'\frac{{ |{S}/2|^{{ {nu} /2}} }}{{\left|{X}\right|^{{{{( {{ {nu} }} + {k} + 1)}}/{{2}}}} \Gamma_{k}({nu}/2) }} \exp\left( - \trace ({S}/2) {X}^{{-1}}\right)'.format(X=X, nu=nu, S=S, k=k, IW=IW)
+    L.append(rv)
+    lw = r'-\frac{{ {{ {nu} }} + {k} + 1}}{{2}} \log \left|{X}\right| - \trace ({S}/2) {X}^{{-1}} + \frac{{ {nu} }}{{2}}\log |{S}/2| - \log\Gamma_{k}({nu}/2)'.format(X=X, nu=nu, S=S, k=k, IW=IW)
+    rv = r'\exp\left('+lw+r'\right)' 
+    L.append(rv)
+    L.append(lw)    
+    return L
+
+def pdf2latex_wishart(X=r'X', nu=r'\nu', S=r'S', k=r'k', W='W'):
+    L = [r'\mathcal{{{W}}}_{k}({X}; {nu}, {S} )\;\;\;\Gamma_{k}({nu}/2) = \pi^{{{k}({k}-1)/4}} \prod_{{i=1}}^{{{k}}} \Gamma({nu}/2 - (i-1)/2)'.format(X=X, nu=nu, S=S, W=W, k=k)  ]
+    rv = r'\frac{{ \left|{X}\right|^{{{{( {{ {nu} }} - {k} - 1)}}/{{2}}}} }}{{ |2{S}|^{{{nu} /2}} \Gamma_{k}({nu}/2) }} \exp\left( - \trace (2{S})^{{-1}} {X}\right)'.format(X=X, nu=nu, S=S, k=k, W=W)
+    L.append(rv)
+    lw = r'\frac{{ {{ {nu} }} - {k} - 1}}{{2}} \log \left|{X}\right| - \trace (2{S})^{{-1}} {X} - \frac{{ {nu} }}{{2}}\log |2{S}| - \log\Gamma_{k}({nu}/2)'.format(X=X, nu=nu, S=S, k=k, W=W)
+    rv = r'\exp\left('+lw+r'\right)' 
+    L.append(rv)
+    L.append(lw)    
+    return L
+
+
+
+
+
