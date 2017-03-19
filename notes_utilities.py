@@ -2,6 +2,30 @@
 
 import numpy as np
 
+
+# Utilities for discrete distributions
+
+def randgen(pr, N=1): 
+    L = len(pr)
+    return int(np.random.choice(range(L), size=N, replace=True, p=pr))
+
+def log_sum_exp(l, axis=0):
+    l_star = np.max(l, axis=axis, keepdims=True)
+    return l_star + np.log(np.sum(np.exp(l - l_star),axis=axis,keepdims=True)) 
+
+def normalize_exp(log_P, axis=None):
+    a = np.max(log_P, keepdims=True, axis=axis)
+    P = normalize(np.exp(log_P - a), axis=axis)
+    return P
+
+def normalize(A, axis=None):
+    Z = np.sum(A, axis=axis,keepdims=True)
+    idx = np.where(Z == 0)
+    Z[idx] = 1
+    return A/Z
+
+## 
+
 def GivensMat(th):
     c = np.cos(th)
     s = np.sin(th)
@@ -155,6 +179,17 @@ def pdf2latex_bernoulli(x=r'c', th=r'theta', BE='BE'):
     L.append(rv)
     rv = r'{x}_0 \log {th}_0 + {x}_1 \log {th}_1'.format(x=x, th=th)
     L.append(rv)    
+    return L
+
+## -----------------------------
+
+def pdf2latex_dirichlet(x=r'w', a=r'a', N=r'N', D=r'D',i=r'u'):
+    L = [r'\mathcal{{{D}}}({x}_{{1:{N}}}; {a}_{{1:{N}}} )'.format(x=x, N=N, a=a, D=D, i=i) ]
+    rv = r'\frac{{\Gamma(\sum_{{{i}}} {a}_{{{i}}})}}{{\prod_{{{i}}} \Gamma({a}_{{{i}}})}} \prod_{{{{{i}}}=1}}^{{{N}}} {{{x}}}_{{{i}}}^{{{a}_{{{i}}} - 1}} '.format(x=x, a=a, N=N, i=i)
+    L.append(rv)
+    rv = r'\log{{\Gamma(\sum_{{{i}}} {a}_{{{i}}})}} - {{\sum_{{{i}}} \log \Gamma({a}_{{{i}}})}} + \sum_{{{{{i}}}=1}}^{{{N}}} ({a}_{{{i}}} - 1) \log{{{x}}}_{{{i}}} '.format(x=x, a=a, N=N, i=i)
+    L.append(r'\exp\left('+rv+r'\right)')
+    L.append(rv)
     return L
 
 
