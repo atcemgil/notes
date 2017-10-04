@@ -53,7 +53,7 @@ import matplotlib.pylab as plt
 
 def pnorm_ball_line(A=np.eye(2), mu=np.array([0,0]),p=2, N=128,color='r',linewidth=3):
 	'''	Creates line objects. Show them with ax.add_line(ln) '''
-	dx,dy = pnorm_ball_points(A)
+	dx,dy = pnorm_ball_points(A, mu)
 	ln = plt.Line2D(dx,dy, color=color, linewidth=linewidth)
 	return ln
 

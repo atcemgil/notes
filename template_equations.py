@@ -1,8 +1,8 @@
 from IPython.display import display, Math, Latex, HTML
 import notes_utilities as nut
 from importlib import reload
-reload(nut)
-Latex('$\DeclareMathOperator{\trace}{Tr}$')
+#reload(nut)
+display(Latex(r'$\DeclareMathOperator{\trace}{Tr}$'))
 
 #L = nut.pdf2latex_gauss(x=r's', m=r'\mu',v=r'v')
 L = nut.pdf2latex_mvnormal(x=r's', m=r'\mu',v=r'\Sigma')
