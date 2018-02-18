@@ -1,6 +1,9 @@
 .DS_store
 octave-workspace
 
+# Ipython notebook checkpoint directory
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
