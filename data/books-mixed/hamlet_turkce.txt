@@ -1,0 +1,946 @@
+(Sahne yavaşça aydınlanır. Hamlet arkası dönük olarak geride tabutun başında durmaktadır. Karanlığın içinden çıkan topluluk içinde Hamlet kaybolur. Kraliçe Gertrude belirir, tabuta çiçek koyar. Kraliçe geri çekilirken Claudius belirir ve Gertrude’u teselli eder. Topluluk müzik eşliğinde tabutu alır ve cenaze alayı oluşur. Yürümeye başlar. Sağ köşe aydınlanır.)
+
+Hamlet: Horatio, sevgili dostum. Hangi rüzgar attı seni buraya?
+
+Horatio: Babanızın cenazesine gelmiştim, efendimiz.
+
+Hamlet: Alay etme benimle
+
+Annemin düğününe gelmişsindir.
+
+Horatio: Doğrusu, biraz çabuk oldu bu düğün
+
+Hamlet: Ekonomi, Horatio, ekonomi!
+
+Cenaze sofrasında sıcak yenen yemekler
+
+Düğün sofrasında soğuk verildi.
+
+(Köşe kararır. Cenaze alayı yoluna devam eder ve çıkar.) Sahnede kalanlar daire oluşturur. Bir tür cenaze-düğün dansına geçer. Köşe aydınlanır.)
+
+Hamlet: Çığrından çıkmış bir zaman bu…
+
+(Köşe kararır. Anlatıcılar Hamlet ile ilgili olgusal bilgileri seyirciye aktarırlar.)
+
+1. Anlatıcı: Shakespeare’in en bilinen yapıtı Hamlet muhtemelen 1601 yılında yazıldı. Muhtemelen, çünkü Shakespeare’in birçok oyununun yazılış tarihi kesin olarak bilinmiyor. Oyunun ilk baskısı 1603 yılında yapılmış. Bu baskının, aktörlerin akıllarında kalan bölümlerden oluşturulduğu söyleniyor. Bundan bir iki yıl sonra Hamlet’in yeni baskısı yapılıyor. Bu kez Shakespeare’in el yazmaları esas alınıyor. Bazı araştırmacılara göre Shakespeare ilk metinde tepki çeken bölümleri bu baskıda budamış.
+
+2. Anlatıcı: O donemde İngiltere’de oyun yazarları halk arasında iyi bilinen temaları alır ve onları en özgün şekilde anlatmaya çalışırlardı. Shakespeare’de kendi oyununu kurgularken Thomas Kyd’in İspanyol Trajedisi adlı oyunundan ve Belleforest’in yazdığı intikam temalı bir masaldan yararlandı. Tarihsel ayrıntılar içinse Saxo Grammaticus tarafından yazılan Danimarka Tarihi’nden yardım aldı. Ancak Shakespeare’in Hamlet’inin ünü kendi döneminde de, daha sonra da bütün bu eserlerin ötesine geçti. Ayni donemde bazı eleştirmenler `halk tiyatroları`nı daha fazla seyirci çekmekten başka amacı olmayan derinliksiz ürünler vermekle suçluyorlardı. Hamlet bu eleştirilere iyi bir yanıt oldu ve Shakespeare tiyatrosunun bir halk tiyatrosu olarak ne kadar yüksek bir düzeye ulaştığını gösterdi.
+
+1. Anlatıcı: Shakespeare’in yaşadığı dönem oldukça kaotik bir dönemdi. Eski bir düzen yıkılıyor, yeni bir dünya sistemi ortaya çıkıyordu. Her alanda belirsizlik ve karmaşa hakimdi. Bu büyük toplumsal dönüşümün Shakespeare’in bütün oyunlarına damgasını vurduğunu söyleyebiliriz. Birazdan birinci perdesini izleyeceğiniz Hamlet’te de bu dönüşümün izlerini görmek mümkün.
+
+2. Anlatıcı: Shakespeare’in başarısının sırrı toplumun çok farklı kesimlerinden insanlara hitap edebilmesinde yatıyordu. Shakespeare’in tiyatro binası Globe’u incelememiz bunu daha iyi anlamamıza yardımcı olabilir. Sahnenin hemen önünde büyük bir alan vardı. Üzeri açık olan bu alan ayaktakımına ayrılmıştı. Parası kapalı parterde oturmaya yetmeyen bütün yoksullar oyunu buradan seyrederdi. Gürültücü ve hareketli bir kitleydi bu. Üç katlı kapalı parterin ilk iki katında oturanlar cebi bir parça para görmüş burjuvalardan bazı din adamlarına varan geniş bir yelpaze oluşturuyordu. Üçüncü kattaki localar oynanan oyunla pek ilgilenmeyenler için ayrılmıştı. Aşağıda anlasan fahişe ve müşterisi burada işi pişirir, bazı gizli toplantılar burada yapılırdı. Soylulara ya da soyluluğa özenen büyük burjuvalara gelince… Onlar sahnenin gerisindeki lüks balkonda otururlardı; çünkü onlar için önemli olan oyunu seyretmek değil, oyunu dinlemek ve diğer seyirciler tarafından seyredilmekti. İşte Shakespeare’in yüksek düzeyli halk tiyatrosu böyle bir ortamda doğdu.
+
+1. Anlatıcı: Danimarka Prensi Hamlet’in Trajedisi. Yazan William Shakespeare. Birinci perde. Birinci sahne. Elsinore Şatosu surları. Nöbet tutan askerler. (Sahnenin önündeki koridorda loş bir ışık yanar. Askerler karşılıklı olarak geçerler.) Soğuk, karanlık, uğursuz bir gece. Sanki atmosfer, ülkenin içinde bulunduğu duruma bir ayna tutmaktadır: tedirgin bir bekleyiş. (Öndeki askerler bir geçişi tamamlamışlardır. Işıkları kararır.) O gece nöbet tutmakta olan Marcellus ve Barnardo Hamlet’in dostu Horatio’yu da nöbet yerine çağırmışlardır. Ona göstermek istedikleri bir şey vardır. Onlara göre ülkedeki kötü gidişatı, yozlaşmayı simgeleyen uğursuz bir şeydir bu.
+
+(Ani bir ışık değişimi ve gerilimli bir müzik girer. Marcellus, Barnardo ve Horatio kılıçlarını çekmiş, birbirlerine yapışmıştır.)
+
+Barnardo: Nasıl da ölen krala benziyor! Gördün değil mi Horatio.
+
+Horatio: Gördüm. Gördüm de dondum kaldım dehşetimden.
+
+Barnardo: Konuşalım istiyor galiba!
+
+Marcellus: Sen okumuş-yazmış adamsın Horatio, konuş onunla.
+
+Horatio: Kimsin, nesin sen? Gecenin  bu saatinde,
+
+Mezardaki haşmetli Danimarka kralının
+
+Güzelim savaş kılığına girip dolaşan?
+
+Söyle, Tanrı aşkına, konuş diyorum sana!
+
+Marcellus: Kızdırdık onu!
+
+Barnardo: Uzaklaşıyor, bakın!
+
+Horatio: Kaçma, gel buraya!
+
+(Müzik ve efektler yavaş yavaş yok  olur.)
+
+Marcellus: Gitti gider.
+
+Barnardo: Ne diyorsun bu işe Horatio?
+
+Horatio: Tanrı inandırsın, iki gözüm çıksın ki
+
+Kendi gözlerimle görmeseydim bunu eğer,
+
+Dünyada inanmazdım.
+
+Marcellus: Nasıl benziyor değil mi ölen krala?
+
+Horatio: Senin sana benzediğin kadar!
+
+Bu zırhlardı kuşandığı
+
+Azgın Norveç kralıyla savaştığı zaman
+
+Böyle çatıktı kaşları, bir öfkeli konuşmada
+
+Baltasını çalarken taşlara
+
+Olur şey değil!…
+
+Barnardo: Bundan önce iki sefer, tam bu ölü saatte
+
+Nöbetteyken önümüzden geçti böyle pür azamet.
+
+Horatio: Nasıl yorumlamalı bunu bilemiyorum;
+
+Marcellus: Benim aklım şuna yatıyor ilk ağızda:
+
+Büyük belalar var gelecek, memleketin başına.
+
+Horatio: Büyük belalar var gelecek, memleketin başına…
+
+Düşüncenin gözünü dürten bir çöp bu
+
+Roma’nın en parlak, en şanlı günlerinde,
+
+Koca Sezar yıkılmazdan önce,
+
+Mezarlar boşalmış, Roma sokaklarında
+
+Kefenli hortlaklar kaynaşır, bağrışır olmuş.
+
+Marcellus: Nedir bu sıkı-düzen, bu kuşkulu durum memlekette?
+
+Geceler gecesi nöbet tutturmak millete?
+
+Neden tunç toplar dökülüyor harıl harıl?
+
+Neden bunca savaş gereçleri alıyoruz dışarıdan?
+
+Neden gemi ustaları dur yok dinlen yok
+
+Pazar yok bayram yok çalışıyorlar harıl harıl?
+
+Ne için olabilir bu telaş bu kıyamet,
+
+Bu geceyi gündüze katan çalışma?
+
+İçinizde bilen varsa, söylesin.
+
+Horatio: Ben söyleyeyim. Söylentiye dayanarak tabii…
+
+Norveç Kralı Fortinbras, biliyorsunuz
+
+Gururdan kıskançlıktan gözleri dönüp
+
+Teke tek bir savaşa çağırmıştı
+
+Demin bize görünen rahmetli kralı
+
+Ve Hamlet’imiz öldürmüştü bu Fortinbras’ı.
+
+Yapılan sözleşme gereğince de
+
+Hamlet’e kalmıştı Fortinbras’ın varı yoğu.
+
+Gelgelelim Fortinbras’ın oğlu,
+
+Pervasız, azgın bir delikanlı,
+
+Norveç’in sınır boylarından,
+
+Bir sürü gözü pek haydut topluyor
+
+Para pul ve yiyecek aşkına,
+
+Amansız bir saldırıya hazırlıyor onları.
+
+Babasının yitirdiği toprakları
+
+Bir vurgunla almak istiyor elimizden.
+
+Bence bu olacak baş nedeni
+
+Girişilen hazırlıkların, tetikte durmaların.
+
+Memleketi bunaltan telaşın kaynağı bu.
+
+Barnardo: Bence de başka sebep olamaz.
+
+İspatı da bu korkunç görüntü işte,
+
+(Hayalet yeniden görünür.)
+
+Horatio: Bakın geliyor yine.
+
+Çiğneyip geçse de gidip konuşacağım onunla
+
+Sesin varsa, kullanabiliyorsan sesini
+
+Konuş benimle. Söyle!
+
+Gerçekten varsa bir bela
+
+Memleketimizin başında dolaşan,
+
+Önleyebileceğimiz bir beladır belki.
+
+(Hayalet kaybolur.)
+
+Marcellus: Gitti.
+
+Barnardo: Tam konuşacakken horoz öttü.
+
+Horatio: Ve ürperdi sanki, bir suçlu gibi
+
+Korktuğu bir çağrıyı duymuş gibi
+
+Kaderin önünde yürür bu haberciler her zaman
+
+Yerin, göğün birlikte açtığı
+
+Felaket falları bunlar
+
+Yurdumuza, yurttaşlarımıza !
+
+Bırakalım artık nöbeti ve beni dinlerseniz,
+
+Gidip genç Hamlet’e anlatalım
+
+Bu gece gördüklerimizi olduğu gibi.
+
+Ona sevgimiz de, ödevimiz de bunu gerektirir.
+
+Marcellus: Çürümüş bir şeyler var Danimarka’da,
+
+Hayaletler dolaşıyor üzerinde…
+
+(Alçak sesle bir şölen müziği çalmaya başlar. Sahne arkasından küçük figürlerle, ellerinde maskelerle saray ahalisi girer. Horatio ve diğerleri çıkarlar.)
+
+Anlatıcı: İkinci sahne. Şatonun içinde bir yer. Saray eğleniyor. (Claudius’un yanına gelir). Yeni kral. Ölen kralın kardeşi. Biraz fazla eğlence düşkünü. Üstelik öyle abisi gibi savaşçı niteliklere de sahip değil. Fakat akıllı birine benziyor. Ağabeyinin ölümünden hemen sonra, bazıları genç Hamlet’in kral olmasını beklerken, stratejik bir hamle yapıyor ve ölen kardeşinin eşiyle, yani kraliçe Gertrude ile evleniyor. Bu ilişki kral Hamlet’in ölümünden önce mi başladı yoksa sonra mı? Bu bir tartışma konusu. Ama şunu söyleyebiliriz: Siyasi sonuçları olan ve ahlaki olarak dönemin değerleriyle pek bağdaşmayan bu evlilik soyluların büyük bir kısmı tarafından da destekleniyor.
+
+Saray eğlenedursun Fortinbras “para, pul ve yiyecek aşkına topladığı bir sürü gözü pek haydutla amansız bir saldırıya hazırlanıyor”.
+
+Claudius: Müteveffa kardeşimiz çok aziz Hamlet’in
+
+Derin acısı her ne kadar tazeyse de anımızda
+
+Ve kederden çatılmış bir çift kaş gibi milletçe
+
+Sabırla ve tevekkülle yasta kusur etmiyorsak da,
+
+Akl-ı selimi elden bırakmaksızın bugüne kadar
+
+Nasıl içimiz titreyerek düşünmekteysek de O’nu,
+
+Kendimizi de unutmayalım diyoruz artık.
+
+Onun için, eski kardeşimiz, bugünkü kraliçemizle
+
+Bu yiğit memleketin taç ortağı olan kadınla
+
+Bir gözümüz ağlayıp, bir gözümüz gülerek,
+
+Düğünde cenaze, cenazede düğün türküleri söyleyerek
+
+Ve tartarak aynı kantarda dert ile zevki
+
+Evlendik bugüne bugün…sizlere de danışarak elbet
+
+Ve sizler de yalnız kendi vicdanınızı dinleyerek
+
+Hak verdiniz bize: Teşekkürler hepinize!
+
+Şimdi gelelim diğer meselemize: Fortinbras’ın oğlu
+
+Kudret-i kuvvetimizi yumurta sepeti sanarak
+
+Ya da toprağı bol kardeşimizin ölmesiyle
+
+Devletimiz göçtü, çöktü belleyerek
+
+Bir ordu toplamış hayale kaptırıp kendini.
+
+Durmadan başımızı ağrıtır oldu elçileriyle,
+
+Babasının yitirdiği
+
+Ve yiğit kardeşimizin yasalarla kazandığı
+
+Toprakları geri ister… O isteye dursun
+
+Bu toplantıda bizim asıl söylemek istediğimiz şudur size:
+
+Bir mektup yazdık genç Fortinbras’ın amcası Norveç Kralı’na,
+
+Yeğeninin ne işler çevirdiğinden habersiz olan o zavallı yatalağa,
+
+Dizginlesin diye bu dolu-dizgin girişimi.
+
+Ne de olsa onun uyrukları toplanan askerler.
+
+Savaş için gerekli özel müfrezeler onun elinde.
+
+Bu iş için siz, dostlarım, Cornelius ve Voltimand,
+
+Sizleri yolluyorum ihtiyar Norveç Kralı’na.
+
+Yalnız burada kayıtlı maddeler haricinde
+
+Kralla görüşmeye herhangi bir şekilde
+
+Şahsen yetkili değilsiniz anlaşıldı mı?
+
+Ayağınız tez, eliniz titiz olsun!
+
+Cornelius ve Voltimand: Her zaman ve her işte bağlıyız size.
+
+Claudius: Ona ne şüphe! Yolunuz açık olsun.
+
+Gel bakalım Laertes! Nasılsın iyi misin?
+
+Bir arzum var demiştin, sahi neydi o Laertes?
+
+Yeter ki akla yakın bir şey olsun istenilen,
+
+Reddettiği görülmüş mü zatımın?
+
+Kafa yüreğe, el ağza bağlı değildir
+
+Senin babanın bize bağlı olduğu kadar.
+
+Nedir dileğin, söyle Laertes?
+
+Laertes: Dileğim Fransa’ya dönmek, Haşmetli Kralım.
+
+Taç giyme töreninize katılmak için
+
+Uça uça geldim Danimarka’ya.
+
+Ama bu ödevimi yerine getirdikten sonra
+
+Lütufkar affınıza ve izninize sığınarak, itiraf etmeliyim ki,
+
+Aklım ve yüreğim Paris’e dönmekte Kralım.
+
+Claudius: Babanın izni var mı peki? Sen ne diyorsun Polonius?
+
+Polonius: Bin bir ısrarla, efendimiz, yalvar yakar
+
+İzni kopardı benden. Arzumun hilafına rağmen
+
+Kıramadım arzusunu.
+
+Kerem edin siz de, verin gitsin izninizi.
+
+Claudius: (bir süre izin vermeyecekmiş gibi bir tutum takınır “bilmiyorum ki şimdi, ülkenin içinde bulunduğu bu zor zamanlarda, senin gibi birini kaybetmek…”, sonra espri yaptığını açığa vurur.)
+
+Güle güle git Laertes, gününü gün et.
+
+Gönlünce tadını çıkar gençliğinin.
+
+(Claudius ve Hamlet göz göze gelirler.)
+
+Claudius: Ya sen, yeğenimiz Hamlet ve de oğlumuz…
+
+Hamlet: Yeğenden biraz fazla, oğuldan bir hayli az.
+
+Claudius: Neden hep kara bulutlar gibisin böyle?
+
+Hamlet: Mümkün mü o hiç efendim, güneşin yanı başındayım.
+
+Gertrude: Canım Hamlet, at üstünden artık bu gece karanlığını.
+
+Biraz da sevgiyle bak Danimarka’mıza.
+
+Gözlerin hep böyle çevrilip yere
+
+Toprakta aramasın değerli babanı.
+
+Her yaşayan ölür, sonsuzluk hepimizin sonu.
+
+Olağan bir şey bu.
+
+Hamlet: Evet, sayın bayan, olağan gerçekten.
+
+Gertrude: Öyleyse nedir aykırı görünen sana?
+
+Hamlet: Görünen mi dediniz? Olan deyiniz, sayın bayan.
+
+Görünen yok benim için, olan var.
+
+Ne giyilen bu zifiri pelerinler, sevgili anne,
+
+Ne o yas giysileri,
+
+Ne o iç çekişler, inleyip sızlamalar,
+
+Ne gözlerden boşanan o acı acı yaşlar,
+
+Ne de anlın kırışması, kaşların çatılması
+
+Anlatabilir benim halimi.
+
+Bütün bunlar görünüş gerçekten.
+
+Gösteriş olabilir bütün bunlar.
+
+Ama hiçbiri anlatamaz bunların, içimden geçenleri.
+
+Claudius: Senin güzel, övülesi yanın da bu Hamlet.
+
+Yürekten tutuyorsun babanın yasını.
+
+Lakin bu mübarek hizmeti mübalağa etmek
+
+Dinimize aykırı bir davranış olduğu gibi,
+
+Ecr-i sabır anlayışına da sığmaz.
+
+Tanrı’ya teslimiyeti inkar eden bu ruh hali,
+
+Yufka bir yüreğin, dengesiz bir zihnin,
+
+Basit ve şenliksiz bir mizacın mahsulü.
+
+Olmasını herkesin olağan saydığı bir şeyi
+
+Neden yadırgayıp boşuna hayıflanalım ki?
+
+Akla da sığmaz bu, çünkü
+
+Akla en uygun gelen şeydir babaların ölmesi.
+
+Şimdi senden ricamız bu beyhude kederi yere çalıp
+
+Bundan böyle bizi de bir baba yerine koymandır,
+
+Ki bilsin dünya alem tahtımızın en yakını sensin.
+
+Tahsile, Wittenberg’e gitme kararına gelince
+
+Arzumuza denk düşmüyor o karar.
+
+Senden dileğimiz yanı başımızda kalmandır.
+
+Gözümüzün gönlümüzün şenliği olarak,
+
+En yakınımız, yeğenimiz, oğlumuz olarak.
+
+Gertrude: Annen boşuna yalvarmasın sana, Hamlet,
+
+Ne olur kal bizimle, gitme Wittenberg’e.
+
+Hamlet: Elimden geleni yapacağım sayın bayan, sizin için.
+
+Claudius: İşte sevecen, çok güzel bir cevap!
+
+Yüreğime su serpti, Hamlet’in bu tatlı, bu candan davranışı.
+
+Bunu kutlamak için Danimarka’da bugün
+
+Her içilen kadehle toplar atılsın
+
+Ve kralın keyfi böylece sarsın gökleri gümbürdeyerek.
+
+Gidelim!
+
+(Herkes çıkar. Ophelia ve Hamlet karşı karşıya kalırlar. Laertes’i oynayan oyuncu da sahnededir ve anlatıcı olarak da oynar.)
+
+Anlatıcı: (Anlatıcının her dizesinde Ophelia Hamlet’e bir  adım yaklaşır.)
+
+Ophelia: sarayın uslu kızı.
+
+Ophelia: masum.
+
+Ophelia: Polonius’un kızı
+
+Ophelia: Laertes’in kardeşi.
+
+Ophelia: Hamlet’in sevgilisi.
+
+Ophelia: aşık.
+
+Laertes: Ama büyük adam oluşu korkutmalı seni,
+
+Dilediğini yapmak elinde olmayabilir.
+
+Bütün devletin rahatı, güvenliği
+
+Onun seçeceği yola bağlıdır,
+
+Bundan ötürü de sınırlıdır seçme özgürlüğü.
+
+Danimarka’nın sesiyle sınırlıdır onun sözü.
+
+Polonius: Bağlanmış mı? Laf! Toy bir kız gibi
+
+Bilmeden konuşuyorsun
+
+Böyle durumlardaki tehlikeyi.
+
+Bağlılık dediği şeye inanıyor musun?
+
+Ophelia: Neye inanacağımı pek bilemiyorum.
+
+Polonius: Ya! Bak ben sana söyleyeyim öyleyse:
+
+Şuna inan ki sen daha bir çocuksun
+
+Kalp parayı sahici sanmışsın görünüşe aldanıp.
+
+Daha pahalıya sat kendini,
+
+Yoksa sersem kız diye satarlar seni.
+
+Daha cimrilikle sakla körpe yüzünü
+
+Ucuz olmamalı seninle görüşmek
+
+Ophelia: Bana gösterdiği sevgi o kadar kibarca ki!
+
+Polonius: Kibarcaymış! Kibarca demek? Aferin, aferin!
+
+Laertes: Kaptırırsan yüreğini, açarsan temiz koynunu
+
+Tatlı dillerine, taşkın heveslerine saflıkla inanırsan
+
+Senin şerefine düşebilecek gölgeyi düşün.
+
+Ophelia koru bu tehlikeden kendini kardeşim
+
+Ölçülü kal sevginde, kaptırma kendini
+
+Arzunun belalı akışına.
+
+Gençlik, tek başına bile azdırır kendini.
+
+Ophelia: Güzel öğütlerin kulağımda küpe kalacak,
+
+Ama kardeşim sen de pek benzeme sakın
+
+Şu ikiyüzlü papazlara
+
+Bizi dikenli, sarp cennet yollarına sürerler
+
+Kendileriyse, aldırmayıp verdikleri talkına
+
+Göbekli, gamsız kaygısız çapkınlar gibi
+
+Zevkin gül bahçelerinde gezerler.
+
+Laertes: Yo, yo, yok canıım.
+
+Polonius: Kibarcaymış! Kibarca demek? Aferin, aferin!
+
+Ophelia: En büyük yeminlerle söyledi beni sevdiğini! Bana dedi ki…
+
+Polonius: Elbette! Bu ökseyle avlanır kuş beyinliler!
+
+Kanı kaynadığı yaşta insanın,
+
+Yürek ne yeminler ettirir dile bilirim.
+
+Kanma bunlara sakın. Çünkü bu Hamlet Lordu
+
+Asil kanlıdır falan ama, kendisi bir delikanlıdır.
+
+Belli olmaz uçkurunun ucu bunların hiç,
+
+Nerde düğüm, nerde çözüm!
+
+Laertes: En ürkek kız vermiş olur kızlığını
+
+Ay ışığına da açsa güzelliğini.
+
+Onun için sakın: Korunmanın en iyi yoludur korku.
+
+Polonius: Son sözüm şu açıkçası: Bundan böyle
+Bir dakika bile, şerefimle oynayıp,
+Buluşmanı, konuşmanı istemiyorum onunla,
+Gözünü aç emrimi dinle.
+
+Ophelia: Baş üstüne efendimiz, baş üstüne.
+
+Anlatıcı (Ophelia): Baş üstüne efendimiz. Ophelia itaat eder. İkna olmuş mudur yoksa gönülsüz bir kabulleniş mi söz konusu olan? Bu emre itaat edişi, başka emirlere de itaat edeceğinin bir işareti olabilir mi? Hamlet’le ilişkisi eskisi gibi sürebilir mi? Ophelia itaat eder. Baş üstüne efendimiz.
+
+Polonius: Hadi bakalım şimdi.
+
+(Polonius ve Ophelia çıkar)
+
+Anlatıcı (Leartes): Leartes’in ve Polonius’un Hamlet’e bakışları farklıdır. Laertes’e göre Hamlet Danimarka’nın müstakbel kralıdır ve bu nedenle kardeşiyle aşkı imkansız görünmektedir. Polonius’a göre ise Hamlet asil olmasına rağmen uçkuru düşük bir delikanlıdır.
+
+Peki ya kimdir bu Hamlet?
+
+(Leartes-anlatıcı çıkar)
+
+Hamlet: Ah bu katı, kaskatı beden bir dağılsa,
+
+Eriyip gitse bir çiy tanesinde sabahın!
+
+Ya da Tanrı yasak etmemiş olsa
+
+Kendi kendini öldürmesini insanın!
+
+Tanrım! Ulu Tanrım! Ne bunaltıcı, ne berbat,
+
+Ne tatsız, ne boş geliyor bu dünya bana!
+
+Ah ne iğrenç, ne iğrenç! Bakımsız bir bahçe ki
+
+Azgın bitkileri tohuma kaçmış,
+
+Pis, kaba ne varsa tabiatta sarmış içini.
+
+Bu muydu olacak iki ay sonra ölümünden?
+
+O kadar bile değil, iki ay bile olmadı.
+
+O yüce kralı bir düşün, bir de buna bak!
+
+Biri güneş tanrısı, öteki bir orman şeytanı!
+
+Nasıl da severdi annemi?
+
+Esen yellerden sakınırdı yüzünü.
+
+Yerler, gökler; unutsam olmaz mı bunları?
+
+O da nasıl düşerdi babamın üstüne?
+
+Sevgiyle beslendikçe artar gibiydi sevgisi.
+
+Öyleyken bir ay içinde…Düşünmesem daha iyi.
+
+Kadın zaaf demekmiş meğer! Kısacık bir ay…
+
+Daha eskimedi o gün giydiği pabuçlar
+
+Babamın tabutu ardından yürürken,
+
+Niobe gibi, iki gözü, iki çeşme…
+
+O kadın, evet aynı kadın amcamla evleniyor.
+
+Babamın kardeşiyle;
+
+Bir ay içinde… Ne kıyasıya bir acele bu!
+
+Ne azgın bir atılış haram döşeğine!
+
+İyi değil, iyilik de çıkmaz bundan.
+
+Ama boğ kendini yüreğim; dilimi tutmak gerek!
+
+Anlatıcı: Hamlet: tahta geçememiş bir veliaht
+
+Hamlet: okumuş yazmış bir entelektüel
+
+Hamlet: dili zehirli bir soytarı
+
+Hamlet: kılıcı kınında bir intikamcı
+
+Hamlet: iki çağın arasında
+
+Hamlet…
+
+Hamlet: Bir fındık kabuğu içinde bile kainatın kralı sayabilirim kendimi.
+
+Işık söner.
+
+Anlatıcı: Hamlet’in krallıkta pek gözü yok gibi. Oysaki ondan beklentisi olanlar da yok değil. Mesela Horatio, Marcellus, Barnardo. Horatio-Hamlet dostluğu.
+
+Hamlet: Hoş geldiniz. Horatio, sen misin!
+
+Horatio: Ta kendisi efendimiz, her zamanki kulunuz.
+
+Hamlet: Hayır dostum. Dost diyelim birbirimize.
+
+Marcellus, Bernardo.
+
+Peki ama ne diye ayrıldın Wittenberg’ten?
+
+Horatio: Serseriliğimizden sevgili efendimiz.
+
+Hamlet: Düşmanınıza söyletmem bunu sizin için,
+
+Hamlet: Elsinore’da ne arıyorsunuz?
+
+Horatio: Babanızın cenazesine gelmiştim, efendimiz.
+
+Hamlet: Alay etme benimle
+
+Annemin düğününe gelmişsindir.
+
+Horatio: Doğrusu, biraz çabuk oldu bu düğün
+
+Hamlet: Ekonomi, Horatio, ekonomi!
+
+Cenaze sofrasında sıcak yenen yemekler
+
+Düğün sofrasında soğuk verildi.
+
+Anlatıcı: Horatio ve arkadaşları Hamlet’e gördükleri şeyi anlatırlar. Onlara göre ülkedeki kötü gidişatı yozlaşmayı simgeleyen uğursuz bir şeydir bu. Hayalet Kral’ın Hamlet’le karşılaşması.
+
+(Işık söner. Işık yandığında Hamlet arkası seyirciye dönük oturmakta ve karşısında bulunan üçlü konuşmaktadır.)
+
+Horatio: İki gece üst üste bu arkadaşlar,
+
+Marcellus ve Barnardo, nöbet tutarken
+
+Gecenin en ölü saatlerinde,
+
+Bir şey görüyorlar: Babanızın benzeri bir görüntü
+
+Tepeden tırnağa zırhlar kuşanmış
+
+Çıkıyor karşılarına ve ağır bir ihtişamla
+
+Yürüyor yanlarında.
+
+Üçüncü gece ben de nöbete gittim onlarla,
+
+Anlattıklarına tıpatıp uyan saatte ve kılıkta
+
+Görüntü geldi yine, hemen tanıdım babanızı.
+
+(Horatio’nun sesi alçalır, müzik girer, Hamlet hayaleti görmüş olarak öne doğru gelir.)
+
+Hamlet: Melekler, peygamberler, koruyun bizi!
+
+İster kutsal bir varlık ol, ister şeytan,
+
+İster cennet yelleriyle gel , ister cehennem alevleriyle
+
+İster iyiliğin belirtisi ol ister kötülüğün
+
+Öyle garip bir geliş ki bu gelişin senin,
+
+Konuşacağım seninle, adını söyleyeceğim sana:
+
+Hamlet, kralım, babam, büyük Danimarkalı!
+
+Karşılık ver bana! Karanlıklara boğma beni!
+
+Neden senin rahat yattığını gördüğümüz mezar
+
+Açıp mermer çenelerini attı dışarı seni?
+
+Ne demektir ölü bir bedenin zırhlar giyip yeniden
+
+Ay ışıklarını görmeye gelmesi?
+
+Söyle, nedir bu? Ne istiyorsun bizden?
+
+Hayalet: (Arka yükseltideki mikrofondan)
+
+Ben, babanın ruhuyum senin ve bir süre için
+
+Mahkumum geceleri karanlıkta gezmeye,
+
+Gündüzleri ateşler içinde kalmaya,
+
+Yanıp tükeninceye dek işlediğim günahlar.
+
+Açıklamam yasak olmasaydı eğer
+
+Yaşadığım zindanın sırlarını,
+
+Öyle şeyler anlatırdım ki sana,
+
+Tek kelimesi aklını başından alır,
+
+Kaynayan kanını donduruverirdi;
+
+Ama et ve kandan kulaklara duymak yok
+
+Ruhlar dünyasının sırlarını.
+
+Dinle, dinle ama, dinle!
+
+Sevgili Babanı gerçekten sevdinse eğer…
+
+Alçakça, canavarca öldürülmesinin öcünü al.
+
+(Müzik kesilir. Sessizlik.)
+
+Hamlet: Öldürülmesi mi?
+
+Anlat çabuk! Anlat ki koşayım öcünü almaya.
+
+Hayalet: Hamlet, duysun şunu kulakların:
+
+Beni yılan sokmuş dediler bağ köşkümde uyurken,
+
+Bütün Danimarka’yı düpedüz aldattılar
+
+Ölümüme böyle bir sebep uydurarak.
+
+Ama şunu bil ki soylu oğlum benim,
+
+Babanın canına kıyan yılan
+
+Onun tacını giyiyor şimdi…
+
+Hayalet: Ey bilinmeyeni bilen ruhum benim!
+
+Amcam demek!
+
+Hayalet: Evet, o haram arzulara susamış hayvan,
+
+Sihirbaz oyunlarıyla , şeytanca hediyelerle
+
+İğrenç emellerine çeldi yüreğini
+
+O melek görünüşlü kraliçemin!
+
+Bağ köşkünde uyurken ben,
+
+Her öğleden sonra uyuduğum gibi;
+
+Amcan, o kuşkusuz rahat saatimde,
+
+Sinsi adımlarla geldi yanıma
+
+Elinde yaman bir zehir şişesi,
+
+Kulaklarımdan cüzzamlar akıttı içime.
+
+Böyle yitirdim canımı, tacımı, kraliçemi,
+
+Bir anda uyurken, kardeş eliyle.
+
+Kanın coşkun akıyorsa eğer damarlarından,
+
+Boyun eğme olup bitenlere!
+
+İzin verme Danimarka tahtının
+
+Lanetli bir haram döşeği olmasına!
+
+Ama yapacağını ne türlü yaparsan yap,
+
+Anana el kaldırıp kirletme elini!
+
+Bırak tanrı görsün hesabını,
+
+Kendi içindeki dikenler kanatsın vicdanını!
+
+Artık gitmeliyim, tanrıya emanet ol!
+
+Sakın unutma beni!
+
+Hamlet: Ey göklerde yaşayanlar! Ey dünya! Daha ne olsun?
+
+Cehennem önüne mi gelsin? Ne yüz karası şey bu?
+
+Tut kendini yüreğim, tut kendini!
+
+Ey çürümüş yürekli kadın!
+
+Yaz aklım, yaz defterine, yaz şunu:
+
+Güler yüzlü, hep güler yüzlü bir insan
+
+Zehirli bir yılan da olabilir.
+
+Ya! Demek böyle, amca, sen buymuşsun demek!
+
+Öyleyse, benim parolam da şu bundan böyle:
+
+Tanrı, seninle olsun, unutma beni!
+
+Yemin ettim, unutmam.
+
+(Horatio ve diğerleri soluk soluğa gelirler.)
+
+Marcellus: Neler oldu Lordum? İyi misiniz?
+
+Barnardo: Hayaletin peşinden koşturup gidince siz efendimiz,
+
+Yitirdik izinizi.
+
+Horatio: Söylesenize neler oldu?
+
+Hamlet: Olacak şey mi bu söyleyin?
+
+İnsanın aklına gelir miydi hiç bu?
+
+Aramızda kalacak değil mi?
+
+Horatio-Marcellus: Ona ne şüphe efendimiz
+
+Hamlet: Bir iblis varmış, bir tek iblis bütün Danimarka’da,
+
+Alçak namussuzun biri.
+
+Horatio: Bize bunu söylemek için, efendimiz
+
+Bir ölünün mezarından çıkmasına lüzum yoktu.
+
+Hamlet: Evet doğru! Çok haklısın!
+
+Onun için hiç kurcalamadan bu işi,
+
+El sıkışıp ayrılalım en iyisi.
+
+Siz işinize keyfinize bakın artık,
+
+Herkesin bir işi, bir keyfi var, değil mi ya?
+
+Bana gelince ben gidip dua edeceğim.
+
+Horatio: Bunlar bit tuhaf, tutarsız sözler, efendimiz.
+
+Hamlet: Özür dilerim kırdımsa sizin.
+
+Horatio: Özür dileyecek bir şey yok efendim.
+
+Hamlet: Olmaz olur mu Horatio, var özürlü bir şey.
+
+Bu gece gördüğünüz şeyi kimseye söylemeyeceksiniz.
+
+Marcellus: Söylemeyiz efendimiz.
+
+Hamlet: Yemin edin.
+
+Horatio: Yemin ederiz.
+
+Hamlet: Kılıcınız üzerine yemin edin.
+
+Marcellus: Ettik ya efendimiz.
+
+Hamlet: Hayır hayır. Kılıcınız üzerine…
+
+Hayalet: Yemin edin.
+
+Hamlet: Bak hele, sen de mi öyle diyorsun
+
+Duydunuz değil mi bizimkini
+
+Hadi yemin edin.
+
+Horatio: Nasıl edelim efendimiz?
+
+Hamlet: Bu gece gördüğünüzü kimseye söylemeyeceksiniz.
+
+Kılıcınız üzerine yemin edin.
+
+Hayalet: Yemin edin.
+
+Hamlet: Ne duyduğunuzu kimseye söylemek yok.
+
+Horatio: Ey günler geceler
+
+Böyle şey görülmüş mü hiç!
+
+Hamlet: Böyle bir şey görmemiş olun siz de.
+
+Kim bilir belki de, bundan böyle, uygunuma gelecek bir süre
+
+Garip garip haller takınmam.
+
+Bütün muhabbetimle tanrıya emanet olun!
+
+Hamlet diye biri varsa, bir yoksul-u biçare,
+
+Size sevgisinden başka bir şey sunamaz ki…
+
+Çığrından çıkmış bir zaman bu. Ey kör talihim benim!
+
+Bana düşmez olaydı dünyayı düzeltmek.
