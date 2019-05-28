@@ -216,6 +216,103 @@ def pdf2latex_wishart(X=r'X', nu=r'\nu', S=r'S', k=r'k', W='W'):
     return L
 
 
+def matrix_inv_lemma(A_11, A_12, A_22, A_21, alpha='+', inverse=False, paren=True):
+    '''
+    Prints aLatex string of the matrix lemma 
+    
+    Args:
+        A_11, A_12, A_22, A_21 : tex strings of matrix blocks
+
+        alpha : '+' or '-', Default = '+'
+        inverse : true or false    
+        paren : use parentheses
+    
+     Outputs : '$$%s = \n %s$$' % (str1, str2) where
+      if invert is false
+         str1 = (A_11 + \alpha A_12 A_22^{-1} A_21 )^{-1} 
+         str2     = A_11^{-1} - alpha A_11^{-1}  A_12 (A_{22} + alpha A_21 A_11^{-1} A_{12})^{-1} A_21 A_11^{-1}  
+      if invert = true 
+         str1 = (A_11^{-1} + \alpha A_12 A_22 A_21 )^{-1} 
+         str2 = A_11 - alpha A_11  A_12 (A_{22}^{-1} + alpha A_21 A_11 A_{12})^{-1} A_21 A_11  
+    
+    
+     Usage Example : 
+        from IPython.display import display, Latex
+        Latex(matrix_inv_lemma('A', 'B', 'S', 'D', paren=False, neg=False))
+        Latex(matrix_inv_lemma('D', 'C^\top', 'R', 'C', neg=True, alpha='-', paren=False))
+    
+    Change History :
+    Date		Time		Prog	Note
+    21-Aug-2007	 7:06 AM	ATC	Created under MATLAB 6.5.0 (R13)
+    26-May-2019 23:34 PM    ATC Python
+
+    ATC = Ali Taylan Cemgil,
+    '''
+
+    if paren:
+        A_11 = '('+A_11+')'
+        A_22 = '('+A_22+')'
+
+    istr = '^{-1}'
+    if alpha == '+':
+        negalpha = '-'
+    else:  
+        negalpha = '+' 
+        alpha = '-'
+
+    if inverse:
+        #%        str = sprintf()
+        str1 = '\\left( %s%s %s %s %s%s %s \\right)^{-1}' % (A_11, istr, alpha, A_12, A_22, istr, A_21)
+        str2= '%s %s %s %s \\left(%s %s %s %s %s \\right)^{-1} %s %s' % (A_11, negalpha, A_11, A_12, A_22,  alpha, A_21, A_11, A_12, A_21, A_11 )
+
+    else:
+    #         (A_11 + \alpha A_12 A_22 A_21 )^{-1} 
+    #              = A_11^{-1} - alpha A_11^{-1}  A_12 (A_{22}^{-1} + alpha A_21 A_11^{-1} A_{12})^{-1} A_21 A_11^{-1}  
+        str1 = '\\left( %s %s %s %s %s \\right)^{-1}' % (A_11, alpha, A_12, A_22, A_21 )
+        str2= '%s%s %s %s%s %s \\left(%s%s %s %s %s%s %s \\right)^{-1} %s %s%s ' % ( A_11,istr, negalpha, A_11,istr, A_12, A_22, istr, alpha, A_21, A_11, istr, A_12, A_21, A_11, istr )
+
+    
+    return '$$%s = \n %s$$' % (str1, str2)
+
+def matrix_inv_blocks(A_11, A_12, A_22, A_21, paren1=False, paren2=False):
+    """
+    Tex strings for blocked matrix inversion
+
+    Change History :
+    Date		Time		Prog	Note
+    21-Aug-2007	 9:29 AM	ATC	Created under MATLAB 6.5.0 (R13)
+    26-May-2019 23:53 PM    ATC Python
+
+    % ATC = Ali Taylan Cemgil,
+    """
+
+    if paren1:
+        A_11 = '('+A_11+')'
+    if paren2:
+        A_22 = '('+A_22+')'
+
+    istr = '^{-1}';
+    alpha = '-';
+    negalpha = '+'; 
+
+    str1 = '\\left( %s %s %s %s^{-1} %s \\right)^{-1}' % (A_11, alpha, A_12, A_22, A_21)
+    str2 = '%s%s %s %s%s %s \\left(%s %s %s %s%s %s \\right)^{-1} %s %s%s ' % (A_11,istr, negalpha, A_11,istr, A_12, A_22,  alpha, A_21, A_11, istr, A_12, A_21, A_11, istr )
+
+    str1a = '\\left( %s %s %s %s^{-1} %s \\right)^{-1}' % (A_22, alpha, A_21, A_11, A_12)
+    str2a = '%s%s %s %s%s %s \\left(%s %s %s %s%s %s \\right)^{-1} %s %s%s ' % (A_22,istr, negalpha, A_22,istr, A_21, A_11,  alpha, A_12, A_22, istr, A_21, A_12, A_22, istr)
+
+
+    str3 = '- %s%s %s %s ' % (A_11, istr, A_12, str1a )
+    str3t = '-  %s %s %s%s' % (str1a, A_21, A_11, istr )
+
+    str3a = '- %s%s %s %s ' % (A_22, istr, A_21, str1)
+    str3at = '-  %s %s %s%s' % (str1, A_12, A_22, istr )
+
+    str0 = '\\left(\\begin{array}{cc} %s & %s \\\\ %s & %s \\end{array}\\right)^{-1}' % (A_11, A_12, A_21, A_22)
+    stra = '\\left(\\begin{array}{cc} %s & %s \\\\ %s & %s \\end{array}\\right)' % (str1, str3at, str3a, str2a)
+    strb = '\\left(\\begin{array}{cc} %s & %s \\\\ %s & %s \\end{array}\\right)' % (str2, str3, str3t, str1a)
+
+    return '$$%s = \n %s = \n %s$$' % (str0, stra, strb)
 
 
 
